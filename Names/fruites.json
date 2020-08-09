@@ -1,7 +1,7 @@
 {
 	"type":1,
 	"name":"fruites",
-	"base_uri":"https://raw.githubusercontent.com/thirumurthy/baby_learnings/master/Names/fruites/"
+	"base_uri":"https://raw.githubusercontent.com/thirumurthy/baby_learnings/master/Names/fruites/",
 	"data":[{"link":"Acai_Berry.png","en_name":"Acai_Berry","ta_name":""},
 {"link":"apple.png","en_name":"apple","ta_name":""},
 {"link":"apple_1.png","en_name":"apple_1","ta_name":""},

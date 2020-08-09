@@ -1,0 +1,19 @@
+{
+	"type":2,
+	"name":"nuts",
+	"base_uri":"https://raw.githubusercontent.com/thirumurthy/baby_learnings/master/Names/nuts/",
+	"data":[{"link":"almonds.png","en_name":"almonds","ta_name":""},
+{"link":"brazil_nut.png","en_name":"brazil_nut","ta_name":""},
+{"link":"cashew.png","en_name":"cashew","ta_name":""},
+{"link":"chestnuts.png","en_name":"chestnuts","ta_name":""},
+{"link":"date.png","en_name":"date","ta_name":""},
+{"link":"fig.png","en_name":"fig","ta_name":""},
+{"link":"Hazelnut.png","en_name":"Hazelnut","ta_name":""},
+{"link":"macadamia_nut.png","en_name":"macadamia_nut","ta_name":""},
+{"link":"pistachio.png","en_name":"pistachio","ta_name":""},
+{"link":"prune.png","en_name":"prune","ta_name":""},
+{"link":"raisin.png","en_name":"raisin","ta_name":""},
+{"link":"Thumbs.db","en_name":"Thumbs","ta_name":""},
+{"link":"walnut.png","en_name":"walnut","ta_name":""}]
+}
+
